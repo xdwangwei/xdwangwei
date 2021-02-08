@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning java.
-- 📫 Welcome to my personal website, [https://wwww.wangwi.site](https://wwww.wangwi.site)
+- 📫 Welcome to my personal website, [https://www.iwangwei.top.](https://wwww.iwangwei.top)
