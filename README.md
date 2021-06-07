@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning java.
-- 📫 Welcome to my personal website, [https://www.iwangwei.top.](https://www.iwangwei.top)
+- 🌱 I’m currently learning java. 
+- 📫 Welcome to my personal website, [https://www.iwangwei.top](https://www.iwangwei.top) or [https://codeonce.cc.](https://codeonce.cc)
